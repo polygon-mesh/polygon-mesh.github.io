@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -6,7 +7,9 @@
 
 <body>
 
-<?php echo "Hello, world!">
+<?php 
+echo "Hello, github pages!";
+?>
 
 </body>
 
